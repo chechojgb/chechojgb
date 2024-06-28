@@ -41,7 +41,7 @@
   
 <p style=" margin-top: 34px;"><a href="https://github.com/chechojgb/decroche" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" style="margin-top: 35px;
     width: 35%;" /></a></p>
-<p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/logo_prov.jpeg" alt="anii693" style="width: 18%"/></p>
+<p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/logo_prov.jpeg" alt="anii693" style="width: 12%"/></p>
 
 
 
