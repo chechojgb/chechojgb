@@ -1,4 +1,4 @@
-<h1 align="center">👋Sergio Ortiz Garzon</h1>
+<h1 align="center">👋Soy Sergio Ortiz Garzon</h1>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
