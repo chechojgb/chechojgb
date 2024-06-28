@@ -4,7 +4,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-![chechojgb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chechojgb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -25,7 +25,7 @@
 <hr width="100%" >
 <h3>Mis estadisticas en GitHub </h3>
 <p>
-  <p style=" margin-left: 60px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chechojgb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p> 
+  <p style=" margin-left: 60px;"><img align="left" src="" /></p> 
   <p style="margin-top: 1;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chechojgb&theme=vue-dark&hide_border=true" /></p>
 </p>
 ‎
