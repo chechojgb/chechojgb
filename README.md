@@ -30,6 +30,8 @@
 <h3 align="left">Mis proyectos:</h3>
 <br>
 <p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" style="width: 35%"/></p>
+
+<div style="margin-top: 30px"></div>
 <br>
 <hr width="100%" >
 <h3 align="left">Mis redes:</h3>
