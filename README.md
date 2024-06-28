@@ -37,6 +37,9 @@
 <h3 align="left">Mis proyectos:</h3>
 
 <p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" style="width: 35%"/></p>
+<p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/logo_prov.jpeg" alt="anii693" style="width: 35%"/></p>
+
+
 
 
 <br>
