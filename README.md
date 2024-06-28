@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 Soy estudiante de analisis y desarrollo de software
+Estudiante de analisis y desarrollo de software
 <br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
@@ -23,7 +23,7 @@
 
 <hr width="0%" >
 <hr width="100%" >
-<h3>Mos estadisticas en GitHub </h3>
+<h3>Mis estadisticas en GitHub </h3>
 <p>
   <p style=" margin-left: 60px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chechojgb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p> 
   <p style="margin-top: 1;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chechojgb&theme=vue-dark&hide_border=true" alt="anii693" /></p>
