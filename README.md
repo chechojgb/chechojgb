@@ -20,7 +20,7 @@
 <br>
 
 <hr width="100%" >
-
+<hr width="0%" >
 <h3>My GitHub Stats</h3>‎
 
 <p style="    margin-left: 60px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chechojgb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p> 
