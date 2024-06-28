@@ -37,11 +37,11 @@
 <h3 align="left">Mis proyectos:</h3>
 
 
-<div style="display: flex;
-  justify-content: center; /* Centra horizontalmente */
-  align-items: center;     /* Centra verticalmente */
-  height: 200px;           /* Ajusta el tamaño del contenedor */
-  border: 1px solid black;">
+<div style="display: flex!important;
+  justify-content: center!important; /* Centra horizontalmente */
+  align-items: center!important;     /* Centra verticalmente */
+  height: 200px!important;           /* Ajusta el tamaño del contenedor */
+  border: 1px solid black!important;">
   
 <p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" style="width: 35%"/></p>
 <p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/logo_prov.jpeg" alt="anii693" style="width: 18%"/></p>
