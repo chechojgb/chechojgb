@@ -27,6 +27,11 @@
 <p style="margin-top: 1;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chechojgb&theme=vue-dark&hide_border=true" alt="anii693" /></p>
 
 <hr width="60%" >
+
+<h3 align="left">Mis proyectos:</h3>
+
+<p"><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" /></p>
+
 <h3 align="left">Mis redes:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sergio-ortiz-garzon-092051316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
