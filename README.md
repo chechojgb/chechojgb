@@ -43,7 +43,8 @@
   height: 200px!important;           /* Ajusta el tamaño del contenedor */
   border: 1px solid black!important;">
   
-<p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" style="width: 35%; margin-top: 36px;" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" style="margin-top: 35px;
+    width: 35%;" /></p>
 <p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/logo_prov.jpeg" alt="anii693" style="width: 18%"/></p>
 </div>
 
