@@ -30,7 +30,7 @@
 
 <h3 align="left">Mis proyectos:</h3>
 
-<p"><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" /></p>
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
