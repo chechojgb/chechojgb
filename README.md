@@ -26,7 +26,7 @@
 <h3>Mis estadisticas en GitHub </h3>
 <p>
   <p style=" margin-left: 60px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chechojgb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p> 
-  <p style="margin-top: 1;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chechojgb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p>
+  <p style="margin-top: 1;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chechojgb&theme=vue-dark&hide_border=true" /></p>
 </p>
 ‎
 
