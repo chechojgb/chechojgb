@@ -22,14 +22,14 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>‎
-
+<br>
 <p style="    margin-left: 60px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chechojgb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p>
 <p style="margin-top: 1;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chechojgb&theme=vue-dark&hide_border=true" alt="anii693" /></p>
-<br><br><br>
+<br>
 <hr width="60%" >
 
 <h3 align="left">Mis proyectos:</h3>
-
+<br>
 <p><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" style="width: 35%"/></p>
 <br>
 <hr width="60%" >
