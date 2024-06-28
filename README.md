@@ -39,8 +39,10 @@
 
 
   
+<h3 align="left">Mis proyectos:</h3>
+
 <p>
-  <img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="Proyecto AI" width="35%" style="margin-top: 35px;"/>
+  <img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="Proyecto AI" width="35%" style="margin-top: 35px; margin-right: 20px;"/>
   <img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/logo_prov.jpeg" alt="Logo Proyecto" width="18%" style="margin-top: 34px;"/>
 </p>
 
