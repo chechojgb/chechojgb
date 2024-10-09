@@ -13,14 +13,13 @@
 
 <br>
 <h4 align="left">Lenguajes y herramientas:</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,github,html,js,mysql,php,laravel" />
   </a>
-	
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </p>
-
 
 <hr width="0%" >
 <hr width="100%" >
