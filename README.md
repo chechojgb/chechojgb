@@ -35,13 +35,12 @@
 
 
 
-<br>
+
 
 
 
 <hr width="100%" >
 
-<br>
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
