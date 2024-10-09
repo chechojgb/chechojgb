@@ -13,7 +13,7 @@
 
 <br>
 <h4 align="left">Lenguajes y herramientas:</h3>
-<p align="center">
+<p align="center" margin-top="10%">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,github,html,js,mysql,php,laravel" />
   </a>
