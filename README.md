@@ -37,14 +37,7 @@
 <hr width="0%" >
 <hr width="100%" >
 
-<h3 align="left">Mis proyectos:</h3>
 
-
-
-  
-<p style=" margin-top: 34px;"><a href="https://github.com/chechojgb/decroche" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/7046091-ai.png" alt="anii693" style="margin-top: 35px;
-    width: 35%;" /></a></p>
-<p><a href="https://github.com/chechojgb/eclipse" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/chechojgb/images/main/logo_prov.jpeg" alt="anii693" style="width: 12%"/></a></p>
 
 
 
